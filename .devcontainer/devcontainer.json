@@ -1,4 +1,4 @@
 {
     "name": "Demo",
-    "image": "registry.opensuse.org/opensuse/tumbleweed"
+    "image": "registry.opensuse.org/opensuse/leap:15.6"
 }
