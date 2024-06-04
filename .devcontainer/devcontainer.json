@@ -1,4 +1,4 @@
 {
     "name": "Demo",
-    "image": "docker.io/library/archlinux"
+    "image": "docker.io/archlinux/archlinux"
 }
